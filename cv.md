@@ -1,6 +1,6 @@
 # Vitali Adziyanav CV / Front-End Junior Dev
 
-![Vitali Adziyanav](1.jpg =200x200 )
+![Vitali Adziyanav](1.jpg =200x200)
 
 ### CONTACTS
 
@@ -80,3 +80,5 @@ EQUIPMENT: Canon 5d MARK III X2; lenses: 24-75/2.8 II, 16-35/2.8, 70-200/4, 50/1
 
 Russian - Native
 English - B1
+
+---
