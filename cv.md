@@ -52,18 +52,15 @@ MAJOR: Software Engineer
 
 ### WORK
 
-#### 2006 - Current | Photographer/Videographer, YouTube production
-#### Self-Employed
+#### 2006 - Current | Photographer/Videographer, YouTube production | Self-Employed
 
 SPECIALIZED IN:
-
 - wedding photography/videography,
 - individual and family professional photo shoots in studio and outdoors
 - photo processing, retouching, and video editing
 - YouTube production
 
-  SOFTWARE USED:
-
+SOFTWARE USED:
 - Adobe Illustrator
 - Adobe Photoshop
 - Adobe Bridge
