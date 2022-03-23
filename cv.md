@@ -1,6 +1,6 @@
 # Vitali Adziyanav CV / Front-End Junior Dev
 
-![Vitali Adziyanav](1.jpg =200x200)
+![Vitali Adziyanau](1.jpg "Vitali Adziyanau")
 
 ### CONTACTS
 
@@ -57,12 +57,14 @@ MAJOR: Software Engineer
 #### 2006 - Current | Photographer/Videographer, YouTube production | Self-Employed
 
 SPECIALIZED IN:
+
 - wedding photography/videography,
 - individual and family professional photo shoots in studio and outdoors
 - photo processing, retouching, and video editing
 - YouTube production
 
 SOFTWARE USED:
+
 - Adobe Illustrator
 - Adobe Photoshop
 - Adobe Bridge
@@ -78,7 +80,7 @@ EQUIPMENT: Canon 5d MARK III X2; lenses: 24-75/2.8 II, 16-35/2.8, 70-200/4, 50/1
 
 ### LANGUAGES
 
-Russian - Native
+Russian - Native  
 English - B1
 
 ---
