@@ -64,3 +64,6 @@ SOFTWARE USED:
 
 EQUIPMENT: Canon 5d MARK III X2; lenses: 24-75/2.8 II, 16-35/2.8, 70-200/4, 50/1.4, 85/1.8; studio light equipment.
 ---
+### LANGUAGES
+Russian - Native
+English - B1
