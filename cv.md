@@ -18,6 +18,8 @@
 
 Determined and creative Front-end developer. I did programming in high school. Repeatedly won prizes in school programming competitions and created my own projects in Basic, Delphi and Pascal. Then devoted my life to graphics and design. Became a professional photographer and gained skills in 2D and 3D design. And now with a lot of life experience and knowledge in design, I decided to continue my path in front-end development. I am confident that I can make websites beautiful and their code work!
 
+---
+
 ### SKILLS
 
 - HTML5
@@ -72,7 +74,10 @@ SOFTWARE USED:
 
 EQUIPMENT: Canon 5d MARK III X2; lenses: 24-75/2.8 II, 16-35/2.8, 70-200/4, 50/1.4, 85/1.8; studio light equipment.
 
+---
+
 ### LANGUAGES
 
 Russian - Native
+
 English - B1
